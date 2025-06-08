@@ -1,5 +1,1 @@
-A sleek and modern portfolio website showcasing my projects, skills, and certifications. Built with ReactJS & TailwindCSS, it offers a dynamic and interactive user experience.
-Key Features:
-->Responsive Design: Ensures a seamless experience across all devices.
-->Interactive Elements: Hover effects, animations, and smooth scrolling enhance user engagement.
-->Custom Styling: Utilizes Flexbox, Grid, animations, and transitions for a visually appealing design.
+Built a modern, responsive portfolio website using React and Tailwind CSS to showcase projects, skills, and certifications. Leveraged Tailwind’s utility-first classes and React components to create a visually appealing, highly maintainable, and dynamic user experience. Implemented interactive UI elements, smooth scrolling, and adaptive layouts for optimal engagement across devices.
